@@ -79,6 +79,7 @@ li {
 .container {
   padding: 50px;
 }
+
 .row {
   width: 100%;
   max-width: 800px;
@@ -407,6 +408,7 @@ footer{
 .footer__logo--img{
     width: 70px;
     height: 70px;
+    filter: invert(1);
 }
 
 .footer__social--link,
